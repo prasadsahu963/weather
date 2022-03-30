@@ -1,0 +1,239 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Ravi\\Dotnet Core\\Weather App\\API\\WeatherApp.Core\\Weather.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\Ravi\\Dotnet Core\\Weather App\\API\\Weather.Repository\\Weather.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ravi\\Dotnet Core\\Weather App\\API\\Weather.Repository\\Weather.DataLayer.csproj",
+        "projectName": "Weather.DataLayer",
+        "projectPath": "D:\\Ravi\\Dotnet Core\\Weather App\\API\\Weather.Repository\\Weather.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Ravi\\.nuget\\packages\\",
+        "outputPath": "D:\\Ravi\\Dotnet Core\\Weather App\\API\\Weather.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ravi\\Dotnet Core\\Weather App\\API\\WeatherApp.Common\\Weather.Common.csproj": {
+                "projectPath": "D:\\Ravi\\Dotnet Core\\Weather App\\API\\WeatherApp.Common\\Weather.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ravi\\Dotnet Core\\Weather App\\API\\WeatherApp.Common\\Weather.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ravi\\Dotnet Core\\Weather App\\API\\WeatherApp.Common\\Weather.Common.csproj",
+        "projectName": "Weather.Common",
+        "projectPath": "D:\\Ravi\\Dotnet Core\\Weather App\\API\\WeatherApp.Common\\Weather.Common.csproj",
+        "packagesPath": "C:\\Users\\Ravi\\.nuget\\packages\\",
+        "outputPath": "D:\\Ravi\\Dotnet Core\\Weather App\\API\\WeatherApp.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "TimeZoneConverter": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ravi\\Dotnet Core\\Weather App\\API\\WeatherApp.Core\\Weather.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ravi\\Dotnet Core\\Weather App\\API\\WeatherApp.Core\\Weather.Service.csproj",
+        "projectName": "Weather.Service",
+        "projectPath": "D:\\Ravi\\Dotnet Core\\Weather App\\API\\WeatherApp.Core\\Weather.Service.csproj",
+        "packagesPath": "C:\\Users\\Ravi\\.nuget\\packages\\",
+        "outputPath": "D:\\Ravi\\Dotnet Core\\Weather App\\API\\WeatherApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ravi\\Dotnet Core\\Weather App\\API\\Weather.Repository\\Weather.DataLayer.csproj": {
+                "projectPath": "D:\\Ravi\\Dotnet Core\\Weather App\\API\\Weather.Repository\\Weather.DataLayer.csproj"
+              },
+              "D:\\Ravi\\Dotnet Core\\Weather App\\API\\WeatherApp.Common\\Weather.Common.csproj": {
+                "projectPath": "D:\\Ravi\\Dotnet Core\\Weather App\\API\\WeatherApp.Common\\Weather.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "OneOf": {
+              "target": "Package",
+              "version": "[3.0.211, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

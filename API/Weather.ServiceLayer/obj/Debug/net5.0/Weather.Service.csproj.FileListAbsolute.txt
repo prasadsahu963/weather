@@ -1,0 +1,5 @@
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.Service.csproj.AssemblyReference.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.Service.AssemblyInfoInputs.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.Service.AssemblyInfo.cs
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.Service.csproj.CoreCompileInputs.cache

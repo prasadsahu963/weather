@@ -1,0 +1,99 @@
+D:\vishal\Test\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.deps.json
+D:\vishal\Test\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.dll
+D:\vishal\Test\API\WeatherApp.Core\bin\Debug\net5.0\ref\WeatherApp.Core.dll
+D:\vishal\Test\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.pdb
+D:\vishal\Test\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csprojAssemblyReference.cache
+D:\vishal\Test\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\vishal\Test\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.AssemblyInfoInputs.cache
+D:\vishal\Test\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.AssemblyInfo.cs
+D:\vishal\Test\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csproj.CoreCompileInputs.cache
+D:\vishal\Test\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.dll
+D:\vishal\Test\API\WeatherApp.Core\obj\Debug\net5.0\ref\WeatherApp.Core.dll
+D:\vishal\Test\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.pdb
+D:\Jinal\API\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.deps.json
+D:\Jinal\API\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.dll
+D:\Jinal\API\API\WeatherApp.Core\bin\Debug\net5.0\ref\WeatherApp.Core.dll
+D:\Jinal\API\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.pdb
+D:\Jinal\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csproj.AssemblyReference.cache
+D:\Jinal\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jinal\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.AssemblyInfoInputs.cache
+D:\Jinal\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.AssemblyInfo.cs
+D:\Jinal\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csproj.CoreCompileInputs.cache
+D:\Jinal\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.dll
+D:\Jinal\API\API\WeatherApp.Core\obj\Debug\net5.0\ref\WeatherApp.Core.dll
+D:\Jinal\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.pdb
+D:\Jinal\API\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.runtimeconfig.json
+D:\Jinal\API\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.runtimeconfig.dev.json
+D:\Jinal\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.Cities.Resources.CityResources.resources
+D:\Jinal\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.Resources.GenericErrorResources.resources
+D:\Jinal\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csproj.GenerateResource.cache
+D:\Jinal\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.genruntimeconfig.cache
+D:\Vishal_data\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csprojAssemblyReference.cache
+D:\Vishal_data\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vishal_data\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.AssemblyInfoInputs.cache
+D:\Vishal_data\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.AssemblyInfo.cs
+D:\Vishal_data\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csproj.CoreCompileInputs.cache
+D:\Vishal_data\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.dll
+D:\Vishal_data\API\WeatherApp.Core\obj\Debug\net5.0\ref\WeatherApp.Core.dll
+D:\Vishal_data\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.pdb
+D:\Vishal_data\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.deps.json
+D:\Vishal_data\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.runtimeconfig.json
+D:\Vishal_data\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.runtimeconfig.dev.json
+D:\Vishal_data\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.dll
+D:\Vishal_data\API\WeatherApp.Core\bin\Debug\net5.0\ref\WeatherApp.Core.dll
+D:\Vishal_data\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.pdb
+D:\Vishal_data\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.genruntimeconfig.cache
+D:\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csproj.AssemblyReference.cache
+D:\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.AssemblyInfoInputs.cache
+D:\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.AssemblyInfo.cs
+D:\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csproj.CoreCompileInputs.cache
+D:\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.dll
+D:\API\API\WeatherApp.Core\obj\Debug\net5.0\ref\WeatherApp.Core.dll
+D:\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.pdb
+D:\API\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.deps.json
+D:\API\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.runtimeconfig.json
+D:\API\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.runtimeconfig.dev.json
+D:\API\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.dll
+D:\API\API\WeatherApp.Core\bin\Debug\net5.0\ref\WeatherApp.Core.dll
+D:\API\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.pdb
+D:\API\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Common.dll
+D:\API\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Common.pdb
+D:\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csproj.CopyComplete
+D:\API\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.genruntimeconfig.cache
+D:\vishal\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.deps.json
+D:\vishal\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.runtimeconfig.json
+D:\vishal\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.runtimeconfig.dev.json
+D:\vishal\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.dll
+D:\vishal\API\WeatherApp.Core\bin\Debug\net5.0\ref\WeatherApp.Core.dll
+D:\vishal\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.pdb
+D:\vishal\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Common.dll
+D:\vishal\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Common.pdb
+D:\vishal\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csprojAssemblyReference.cache
+D:\vishal\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\vishal\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.AssemblyInfoInputs.cache
+D:\vishal\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.AssemblyInfo.cs
+D:\vishal\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csproj.CoreCompileInputs.cache
+D:\vishal\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csproj.CopyComplete
+D:\vishal\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.dll
+D:\vishal\API\WeatherApp.Core\obj\Debug\net5.0\ref\WeatherApp.Core.dll
+D:\vishal\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.pdb
+D:\vishal\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.genruntimeconfig.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.deps.json
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.runtimeconfig.json
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.runtimeconfig.dev.json
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Core.pdb
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Common.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\bin\Debug\net5.0\WeatherApp.Common.pdb
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csproj.AssemblyReference.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.AssemblyInfoInputs.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.AssemblyInfo.cs
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csproj.CoreCompileInputs.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.csproj.CopyComplete
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\refint\WeatherApp.Core.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.pdb
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\WeatherApp.Core.genruntimeconfig.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\ref\WeatherApp.Core.dll

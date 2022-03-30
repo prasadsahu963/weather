@@ -1,0 +1,72 @@
+
+<div class="header" fxLaout="row" fxLayoutAlign="center center">
+  Weather Forecast App
+</div>
+
+<div class="content" fxLayout="row" fxLayoutAlign="center center">
+  <div class="container">
+    <div class="weather-side">
+      <div class="weather-gradient"></div>
+      <div class="date-container">
+        <h2 class="date-dayname">{{ (locationForecasts.length > 0)? (locationForecasts[index]['Date'] | date: 'EEEE')  : currentDate | date:'EEEE'}}</h2>
+        <span class="date-day">{{ (locationForecasts.length > 0)? (locationForecasts[index]['Date'] | date)  : currentDate | date}}</span>
+        <span class="location">{{(selectedLocation || "San Diego")}}</span>
+      </div>
+      <div class="weather-container">
+        <img src="../assets/images/{{locationForecasts[index]['Icon']}}.png" class="big-image" />
+        <h1 class="weather-temp">
+          {{ (locationForecasts.length > 0)? (locationForecasts[index]['MaximumValue'] + "&deg;" + locationForecasts[index]['Unit']
+          + " - " + locationForecasts[index]['MinimumValue'] + "&deg;" + locationForecasts[index]['Unit'])  : "0°C"}}
+        </h1>
+        <h3 class="weather-desc">{{ (locationForecasts.length > 0)? locationForecasts[index]['IconPhrase'] : "Sunny"}}</h3>
+      </div>
+    </div>
+    <div class="info-side">
+      <div class="today-info-container">
+        <div class="today-info">
+          <div class="precipitation"> <span class="title">AIR QUALITY</span><span class="value">{{ (locationForecasts.length > 0)? locationForecasts[index]['AirQuality'] : "Good"}}</span>
+            <div class="clear"></div>
+          </div>
+          <div class="humidity"> <span class="title">CLOUD</span><span class="value">{{ (locationForecasts.length > 0)? locationForecasts[index]['CloudCover'] : "0"}} %</span>
+            <div class="clear"></div>
+          </div>
+          <div class="wind"> <span class="title">WIND</span><span class="value">{{ (locationForecasts.length > 0)? locationForecasts[index]['WindSpeed'] + " " +locationForecasts[index]['WindUnit'] : "0 km/h"}}</span>
+            <div class="clear"></div>
+          </div>
+        </div>
+      </div>
+      <div class="week-container">
+        <ul class="week-list">
+          <li class="list-item" [ngClass]="index == i ? 'active' : ''"
+           (click)="setDay(i)" fxLayout="column" fxLayoutAlign="center center" *ngFor="let forecast of locationForecasts;let i = index">
+            <span class="day-text">{{forecast['Date'] | date: 'EEE'}}</span>
+            <div>
+              <img src="../assets/images/{{forecast['Icon']}}.png" class="image" />
+            </div>
+            <span class="temp-text">{{(forecast['MaximumValue'] + "&deg;" + locationForecasts[index]['Unit'])}}</span>
+            <div>-</div>
+            <span class="temp-text">{{(forecast['MinimumValue'] + "&deg;" + locationForecasts[index]['Unit'])}}</span>
+          </li>
+        </ul>
+      </div>
+      <div class="location-container">
+        <mat-form-field class="form-field" appearance="outline">
+          <mat-label>Location</mat-label>
+          <input type="text"
+                 aria-label="Location"
+                 matInput
+                 [formControl]="locationAutoCompleteControl"
+                 [matAutocomplete]="auto"
+                 matAutocompletePosition="below"
+                 >
+          <mat-autocomplete autoActiveFirstOption #auto="matAutocomplete" (optionSelected)='displayForecast($event.option.value)'>
+            <mat-option *ngFor="let option of options" [value]="option.localizedName">
+              {{option.localizedName}}
+            </mat-option>
+          </mat-autocomplete>
+        </mat-form-field>
+      </div>
+    </div>
+  </div>
+</div>
+

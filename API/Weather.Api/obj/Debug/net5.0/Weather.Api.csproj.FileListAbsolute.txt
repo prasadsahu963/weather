@@ -1,0 +1,226 @@
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\Weather.Api.csproj.AssemblyReference.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\Weather.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\Weather.Api.AssemblyInfoInputs.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\Weather.Api.AssemblyInfo.cs
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\Weather.Api.csproj.CoreCompileInputs.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\Weather.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\Weather.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\appsettings.json
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Weather.Api.exe
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Weather.Api.deps.json
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Weather.Api.runtimeconfig.json
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Weather.Api.runtimeconfig.dev.json
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Weather.Api.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Weather.Api.pdb
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\AutoMapper.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Humanizer.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\MediatR.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\MediatR.Contracts.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\OneOf.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Weather.DataLayer.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Weather.ServiceLayer.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Weather.ServiceLayer.pdb
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\bin\Debug\net5.0\Weather.DataLayer.pdb
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\scopedcss\bundle\Weather.Api.styles.css
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\staticwebassets\Weather.Api.StaticWebAssets.Manifest.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\Weather.Api.RazorTargetAssemblyInfo.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\Weather.Api.csproj.CopyComplete
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\Weather.Api.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\refint\Weather.Api.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\Weather.Api.pdb
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\Weather.Api.genruntimeconfig.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Api\obj\Debug\net5.0\ref\Weather.Api.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\appsettings.json
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Weather.Api.exe
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Weather.Api.deps.json
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Weather.Api.runtimeconfig.json
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Weather.Api.runtimeconfig.dev.json
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Weather.Api.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Weather.Api.pdb
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\AutoMapper.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Humanizer.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\MediatR.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\MediatR.Contracts.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\OneOf.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Weather.DataLayer.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Weather.ServiceLayer.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Weather.ServiceLayer.pdb
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\bin\Debug\net5.0\Weather.DataLayer.pdb
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\Weather.Api.csproj.AssemblyReference.cache
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\Weather.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\Weather.Api.AssemblyInfoInputs.cache
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\Weather.Api.AssemblyInfo.cs
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\Weather.Api.csproj.CoreCompileInputs.cache
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\Weather.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\Weather.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\scopedcss\bundle\Weather.Api.styles.css
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\staticwebassets\Weather.Api.StaticWebAssets.Manifest.cache
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\Weather.Api.RazorTargetAssemblyInfo.cache
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\Weather.Api.csproj.CopyComplete
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\Weather.Api.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\refint\Weather.Api.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\Weather.Api.pdb
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\Weather.Api.genruntimeconfig.cache
+D:\Ravi\Dotnet Core\Weather App\API\Weather.Api\obj\Debug\net5.0\ref\Weather.Api.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\test1\API\Weather.Api\bin\Debug\net5.0\appsettings.json
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Weather.Api.exe
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Weather.Api.deps.json
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Weather.Api.runtimeconfig.json
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Weather.Api.runtimeconfig.dev.json
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Weather.Api.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\ref\Weather.Api.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Weather.Api.pdb
+D:\test1\API\Weather.Api\bin\Debug\net5.0\AutoMapper.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Humanizer.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\MediatR.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\MediatR.Contracts.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\OneOf.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\test1\API\Weather.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\test1\API\Weather.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\test1\API\Weather.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\test1\API\Weather.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Weather.DataLayer.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Weather.ServiceLayer.dll
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Weather.ServiceLayer.pdb
+D:\test1\API\Weather.Api\bin\Debug\net5.0\Weather.DataLayer.pdb
+D:\test1\API\Weather.Api\obj\Debug\net5.0\Weather.Api.csprojAssemblyReference.cache
+D:\test1\API\Weather.Api\obj\Debug\net5.0\Weather.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\test1\API\Weather.Api\obj\Debug\net5.0\Weather.Api.AssemblyInfoInputs.cache
+D:\test1\API\Weather.Api\obj\Debug\net5.0\Weather.Api.AssemblyInfo.cs
+D:\test1\API\Weather.Api\obj\Debug\net5.0\Weather.Api.csproj.CoreCompileInputs.cache
+D:\test1\API\Weather.Api\obj\Debug\net5.0\Weather.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\test1\API\Weather.Api\obj\Debug\net5.0\Weather.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\test1\API\Weather.Api\obj\Debug\net5.0\staticwebassets\Weather.Api.StaticWebAssets.Manifest.cache
+D:\test1\API\Weather.Api\obj\Debug\net5.0\staticwebassets\Weather.Api.StaticWebAssets.xml
+D:\test1\API\Weather.Api\obj\Debug\net5.0\scopedcss\bundle\Weather.Api.styles.css
+D:\test1\API\Weather.Api\obj\Debug\net5.0\Weather.Api.RazorTargetAssemblyInfo.cache
+D:\test1\API\Weather.Api\obj\Debug\net5.0\Weather.Api.csproj.CopyComplete
+D:\test1\API\Weather.Api\obj\Debug\net5.0\Weather.Api.dll
+D:\test1\API\Weather.Api\obj\Debug\net5.0\ref\Weather.Api.dll
+D:\test1\API\Weather.Api\obj\Debug\net5.0\Weather.Api.pdb
+D:\test1\API\Weather.Api\obj\Debug\net5.0\Weather.Api.genruntimeconfig.cache

@@ -1,0 +1,60 @@
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\bin\Debug\net5.0\Weather.ServiceLayer.deps.json
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\bin\Debug\net5.0\Weather.ServiceLayer.runtimeconfig.json
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\bin\Debug\net5.0\Weather.ServiceLayer.runtimeconfig.dev.json
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\bin\Debug\net5.0\Weather.ServiceLayer.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\bin\Debug\net5.0\Weather.ServiceLayer.pdb
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\bin\Debug\net5.0\Weather.DataLayer.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\bin\Debug\net5.0\Weather.DataLayer.pdb
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.ServiceLayer.csproj.AssemblyReference.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.ServiceLayer.AssemblyInfoInputs.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.ServiceLayer.AssemblyInfo.cs
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.ServiceLayer.csproj.CopyComplete
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.ServiceLayer.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\refint\Weather.ServiceLayer.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.ServiceLayer.pdb
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.ServiceLayer.genruntimeconfig.cache
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\ref\Weather.ServiceLayer.dll
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.ServiceLayer.ErrorCodes.ErrorCodeResource.resources
+D:\Ravi\Dotnet Core\Weather App\API\WeatherApp.Core\obj\Debug\net5.0\Weather.ServiceLayer.csproj.GenerateResource.cache
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\bin\Debug\net5.0\Weather.ServiceLayer.deps.json
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\bin\Debug\net5.0\Weather.ServiceLayer.runtimeconfig.json
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\bin\Debug\net5.0\Weather.ServiceLayer.runtimeconfig.dev.json
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\bin\Debug\net5.0\Weather.ServiceLayer.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\bin\Debug\net5.0\Weather.ServiceLayer.pdb
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\bin\Debug\net5.0\Weather.DataLayer.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\bin\Debug\net5.0\Weather.DataLayer.pdb
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.csproj.AssemblyReference.cache
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.ErrorCodes.ErrorCodeResource.resources
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.csproj.GenerateResource.cache
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.AssemblyInfoInputs.cache
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.AssemblyInfo.cs
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.csproj.CopyComplete
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\obj\Debug\net5.0\refint\Weather.ServiceLayer.dll
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.pdb
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.genruntimeconfig.cache
+D:\Ravi\Dotnet Core\Weather App\API\Weather.ServiceLayer\obj\Debug\net5.0\ref\Weather.ServiceLayer.dll
+D:\test1\API\Weather.ServiceLayer\bin\Debug\net5.0\Weather.ServiceLayer.deps.json
+D:\test1\API\Weather.ServiceLayer\bin\Debug\net5.0\Weather.ServiceLayer.runtimeconfig.json
+D:\test1\API\Weather.ServiceLayer\bin\Debug\net5.0\Weather.ServiceLayer.runtimeconfig.dev.json
+D:\test1\API\Weather.ServiceLayer\bin\Debug\net5.0\Weather.ServiceLayer.dll
+D:\test1\API\Weather.ServiceLayer\bin\Debug\net5.0\ref\Weather.ServiceLayer.dll
+D:\test1\API\Weather.ServiceLayer\bin\Debug\net5.0\Weather.ServiceLayer.pdb
+D:\test1\API\Weather.ServiceLayer\bin\Debug\net5.0\Weather.DataLayer.dll
+D:\test1\API\Weather.ServiceLayer\bin\Debug\net5.0\Weather.DataLayer.pdb
+D:\test1\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.csprojAssemblyReference.cache
+D:\test1\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.ErrorCodes.ErrorCodeResource.resources
+D:\test1\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.csproj.GenerateResource.cache
+D:\test1\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\test1\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.AssemblyInfoInputs.cache
+D:\test1\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.AssemblyInfo.cs
+D:\test1\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.csproj.CoreCompileInputs.cache
+D:\test1\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.csproj.CopyComplete
+D:\test1\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.dll
+D:\test1\API\Weather.ServiceLayer\obj\Debug\net5.0\ref\Weather.ServiceLayer.dll
+D:\test1\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.pdb
+D:\test1\API\Weather.ServiceLayer\obj\Debug\net5.0\Weather.ServiceLayer.genruntimeconfig.cache
